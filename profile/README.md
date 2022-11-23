@@ -1,4 +1,6 @@
-## Hi there 👋
+## Ending Community Homelessness Coalition
+
+### ECHO is a 501(c)3 nonprofit organization that serves as the Austin / Travis County Continuum of Care (CoC) Lead Agency, CoC Collaborative Applicant, Coordinated Entry System manager, and local HMIS database administrator. We are tasked with planning and coordinating community-wide strategies to end homelessness in the Austin / Travis County geographic region. We work in collaboration with people with lived experience of homelessness, community nonprofits, and government agencies to coordinate services and housing resources for the people who are experiencing homelessness in our community. We use research and evidence-based practices to advocate for the resources to bring the local Homelessness Response System to scale and meet our community’s goal of ending homelessness.
 
 <!--
 
